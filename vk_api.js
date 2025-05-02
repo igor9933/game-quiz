@@ -1,6 +1,6 @@
 // Инициализация VK API
 vk.init({
-    apiId: 53521640,
+    apiId: 53521596,
     status: true,
     onlyWidgets: false
 })
